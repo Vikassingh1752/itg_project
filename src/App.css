@@ -1,0 +1,11 @@
+body {
+  margin: 0; 
+  padding: 0; 
+  
+}
+  .formWrapper label {
+    display: block;
+    min-height: 233px;
+    background: #e5e5e5;
+    border: 1px solid #aaaaaa;
+}
